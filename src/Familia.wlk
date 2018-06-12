@@ -3,7 +3,7 @@ class Familia {
 	
 	var ninios = #{}
 	
-	//Eje 4
+	//Eje 4-
 	method familiaPuedeSalirDePaseo() {
 		return ninios.all({ninio => ninio.ninioPuedeSalirDePaseo()})
 	}
